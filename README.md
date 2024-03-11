@@ -12,17 +12,7 @@ I'm Ricardo from Ecuador, FullStack developer. My hobbies are playing videogames
   <a href="https://react.dev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="100" alt="React Logo" /></a>
   <p>React</p>
 </div>
-<style>
-  .centered {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  .centered div {
-    margin: 0 10px;
-    text-align: center;
-  }
-</style>
+
 
 
 <!--
