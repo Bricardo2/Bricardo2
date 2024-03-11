@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+I'm Ricardo from Ecuador, FullStack developer. My hobbies are playing videogames, watching/reading manga/anime and developing things that come to my mind.
+### My favourite Library
 
+### My knowledge
+<p align="flex-start">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+</p>
+[react-image]:(https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
 <!--
 **Bricardo2/Bricardo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
