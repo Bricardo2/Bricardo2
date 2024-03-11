@@ -5,7 +5,8 @@ I'm Ricardo from Ecuador, FullStack developer. My hobbies are playing videogames
 ### My knowledge
 <div display='grid'>
   <p align="flex-start">
-    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" />NestJS</a>
+    <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" /></a>
+    NestJS
   </p>
   <p align="flex-start">
     <a href="https://react.dev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="100" alt="React Logo" /></a>
