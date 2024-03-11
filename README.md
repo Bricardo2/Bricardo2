@@ -4,9 +4,12 @@ I'm Ricardo from Ecuador, FullStack developer. My hobbies are playing videogames
 
 ### My knowledge
 <p align="flex-start">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" /></a>
 </p>
-[react-image]:(https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png)
+<p align="flex-start">
+  <a href="https://react.dev" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" width="100" alt="React Logo" /></a>
+</p>
+
 <!--
 **Bricardo2/Bricardo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
